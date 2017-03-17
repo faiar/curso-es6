@@ -2,8 +2,8 @@
 
 ## Requisitos
 1. Clonar el siguiente repositorio: [https://github.com/reneolivo/webapp-boilerplate](https://github.com/reneolivo/webapp-boilerplate)
-2. La URL de los assets es: [fuego-app.herokuapp.com/api/assets](fuego-app.herokuapp.com/api/assets)
-3. La URL de las reservas es: [fuego-app.herokuapp.com/api/lendings](fuego-app.herokuapp.com/api/lendings)
+2. La URL de los assets es: [http://fuego-app.herokuapp.com/api/assets](http://fuego-app.herokuapp.com/api/assets)
+3. La URL de las reservas es: [http://fuego-app.herokuapp.com/api/lendings](http://fuego-app.herokuapp.com/api/lendings)
 
 ## Video Tutoriales
 1. [Agregando Bootstrap](https://vid.me/mmsA)
