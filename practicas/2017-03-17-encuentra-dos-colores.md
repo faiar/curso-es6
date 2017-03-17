@@ -1,5 +1,5 @@
 # Descripción
-Dado un color X y un listado de colores, encuentra dos colores dentro del listado que al mezclarse en el color X.
+Dado un color X y un listado de colores, encuentra dos colores dentro del listado que al mezclarse den el color X.
 
 La función en éste caso se llamará **findColorMatches** y debe retornar un arreglo con los dos colores encontrados.
 
