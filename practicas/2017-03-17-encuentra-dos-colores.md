@@ -28,4 +28,4 @@ result = findColorMatches(color1);
 console.log(result); // [ { red: 20, green: 120, blue: 40 }, { red: 40, green: 30, blue: 50 } ];
 ```
 
-:goberserk::goberserk::goberserk: [Codepen con pruebas de ejemplo](http://codepen.io/reneolivo/pen/wJPVpQ?editors=0010)
+:goberserk::goberserk::goberserk: [Codepen con pruebas de ejemplo](http://codepen.io/Chakstor/pen/oZpWgE?editors=0010)
